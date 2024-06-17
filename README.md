@@ -1,1 +1,5 @@
-![image](https://github.com/hannahnakku/HTML-CSS-EXERCISE/assets/171737437/15ac0cd3-3542-443c-bb92-7b993cc4c2db)
+![alt text](image-5.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
